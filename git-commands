@@ -15,4 +15,6 @@ git reset --mixed <Commit ID> ---> Reset the file from Local repository to Works
 git reset --hard <commit ID> ---> it deleted the files from Local Repository as well from all stages
 git clone <central repository url : https://github.com/ayaanaahil/repo1.git > This will clone the Repo1 created in GIT HUB over cloud 
 goto central repository in your system --> add files in similar process like above and use below command to push file directly to central repository 
+
+newly added line
 git push 
